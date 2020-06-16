@@ -1,0 +1,17 @@
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/stepdefnitions/FindTransactionsSteps.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/utilities/ConfigurationReader.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/stepdefnitions/Hooks.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/pages/PayBillsPage.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/pages/AccountSummaryPage.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/pages/AccountActivityPage.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/stepdefnitions/AccountSummarySteps.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/stepdefnitions/AccountActivityNavigationSteps.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/stepdefnitions/AccountActivitySteps.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/utilities/BrowserUtils.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/pages/LoginPage.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/utilities/Driver.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/pages/FirstPage.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/runners/CukesRunner.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/stepdefnitions/LoginStepDefs.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/pages/BasePage.java
+/Users/macbookair/IdeaProjects/ZeroBankCucumber/src/test/java/com/zerobank/stepdefnitions/PayBillsSteps.java

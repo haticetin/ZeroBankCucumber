@@ -1,0 +1,80 @@
+-------------------------------------------------------------------------------
+Test set: com.zerobank.runners.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 17.986 s <<< FAILURE! - in com.zerobank.runners.CukesRunner
+Available currencies(Purchase Foreign Currency)  Time elapsed: 9.061 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step "the user accesses the Purchase foreign currency cash tab" is undefined. You can implement it using the snippet(s) below:
+
+@Given("the user accesses the Purchase foreign currency cash tab")
+public void the_user_accesses_the_Purchase_foreign_currency_cash_tab() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@Then("following currencies should be available")
+public void following_currencies_should_be_available(io.cucumber.datatable.DataTable dataTable) {
+    // Write code here that turns the phrase above into concrete actions
+    // For automatic transformation, change DataTable to one of
+    // E, List<E>, List<List<E>>, List<Map<K,V>>, Map<K,V> or
+    // Map<K, List<V>>. E,K,V must be a String, Integer, Float,
+    // Double, Byte, Short, Long, BigInteger or BigDecimal.
+    //
+    // For other transformations you can register a DataTableType.
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Error message for not selecting currency(Purchase Foreign Currency)  Time elapsed: 3.9 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step "the user accesses the Purchase foreign currency cash tab" is undefined. You can implement it using the snippet(s) below:
+
+@Given("the user accesses the Purchase foreign currency cash tab")
+public void the_user_accesses_the_Purchase_foreign_currency_cash_tab() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("user tries to calculate cost without selecting a currency")
+public void user_tries_to_calculate_cost_without_selecting_a_currency() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("error message should be displayed")
+public void error_message_should_be_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Error message for not entering value(Purchase Foreign Currency)  Time elapsed: 3.705 s  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step "the user accesses the Purchase foreign currency cash tab" is undefined. You can implement it using the snippet(s) below:
+
+@Given("the user accesses the Purchase foreign currency cash tab")
+public void the_user_accesses_the_Purchase_foreign_currency_cash_tab() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Some other steps were also undefined:
+
+@When("user tries to calculate cost without entering a value")
+public void user_tries_to_calculate_cost_without_entering_a_value() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("error message should be displayed")
+public void error_message_should_be_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
